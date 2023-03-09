@@ -1,3 +1,8 @@
+# Youtube Clone App - 9.3 Module 3 Group Project
+
+This project was completed by Markeya McKoy-Carree, Walesca Ambroise, and Bethany Torres.
+
+Trello Progress can be found [here](https://trello.com/b/9zuOGawN/youtube-clone-group-project)
 
 ## Getting Started with Create React App
 
