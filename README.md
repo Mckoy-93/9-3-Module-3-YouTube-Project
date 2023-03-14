@@ -2,7 +2,7 @@
 
 This project was completed by Markeya McKoy-Carree, Walesca Ambroise, and Bethany Torres.
 
-Trello Progress can be found [here](https://trello.com/b/9zuOGawN/youtube-clone-group-project)
+Trello Progress can be found [here](https://trello.com/b/9zuOGawN/youtube-clone-group-project).
 
 ## Getting Started with Create React App
 
