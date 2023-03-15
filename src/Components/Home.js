@@ -7,7 +7,6 @@ import Searchbar from "./Searchbar";
 
 function Home() {
     return (
-        <div>
         //<div className='homepage'>
          {/* <Searchbar />
          <section className="videos"></section>
