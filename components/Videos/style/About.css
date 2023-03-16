@@ -1,0 +1,102 @@
+/* meet the team */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&display=swap");
+
+span {
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 120%;
+  transform: translate(-50%, -50%);
+  display: block;
+  color: #cf1b1b;
+  font-size: 50px;
+  letter-spacing: 8px;
+  cursor: pointer;
+}
+
+span::before {
+  content: "Meet The Team";
+  position: absolute;
+  color: transparent;
+  opacity: 20%;
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent 0,
+    transparent 2px,
+    white 2px,
+    white 4px
+  );
+
+  z-index: -1;
+  transition: 1s;
+}
+
+span::after {
+  content: "Meet The Team";
+  position: absolute;
+  color: transparent;
+  opacity: 20%;
+  background-image: repeating-linear-gradient(
+    135deg,
+    transparent 0,
+    transparent 2px,
+    white 2px,
+    white 4px
+  );
+
+  top: 0px;
+  left: 0px;
+  transition: 1s;
+}
+
+span:hover:before {
+  top: 10px;
+  left: 10px;
+}
+
+span:hover:after {
+  top: -10px;
+  left: -10px;
+}
+
+img.all-images {
+  border-radius: 50%;
+}
+
+p {
+  word-wrap: break-word;
+  font-family: ui-rounded;
+  text-align: justify;
+}
+
+/* bio */
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+body {
+  background-color: #fff;
+}
+
+.title {
+  font-family: "Montserrat";
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  letter-spacing: 1px;
+}
+
+h1 {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+  background-size: cover;
+  color: transparent;
+  /* -moz-background-clip: text;
+  -webkit-background-clip: text; */
+  text-transform: uppercase;
+  font-size: 60px;
+  line-height: 0.75;
+  margin: 10px 0;
+}
