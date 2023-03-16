@@ -1,16 +1,14 @@
 import React from 'react';
-//import ErrorMessage from './ErrorMessage';
-import React from "react";
-import { useState } from "react";
-import Youtube from "react-youtube";
-import Searchbar from "./Searchbar";
+//import ErrorBoundary from './ErrorBoundary';
+//import { useState } from "react";
+//import Youtube from "react-youtube";
+//import Searchbar from "./Searchbar";
 
 function Home() {
     return (
-        //<div className='homepage'>
-         {/* <Searchbar />
+        <div className='homepage'>
          <section className="videos"></section>
-         <p className='prompt'>No search Result Yet! Please submit a search Above!</p> */}
+         <p className='prompt'>No search Result Yet! Please submit a search Above!</p>
         </div>
     );
 }

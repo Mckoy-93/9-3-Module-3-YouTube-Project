@@ -4,6 +4,9 @@ This project was completed by Markeya McKoy-Carree, Walesca Ambroise, and Bethan
 
 Trello Progress can be found [here](https://trello.com/b/9zuOGawN/youtube-clone-group-project).
 
+Deployed Project can be found [here](https://6412b86425aa354289383265--cheery-mandazi-52192d.netlify.app/
+)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -75,4 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-https://6412b86425aa354289383265--cheery-mandazi-52192d.netlify.app/
